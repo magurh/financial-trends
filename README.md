@@ -4,7 +4,11 @@ I recently looked at the whole ‘meme stock saga’ 💎, popularized on some s
 
 ### Context
 
-Let me start by giving you a bit more context: in the early days of 2021, a certain large hedge fund opened a short position against GameStop, which was still suffering from the effects of the pandemic. The stock price was around $7 at that point, but by the end of January, it reached a whopping $483, roughly a 6800% price increase in only a few days. 🕐 (The stock underwent a stock split, which is why the price appears slightly different in the TradingView plot.) This fast price increase is called a ‘short squeeze’, and is due to an excess of short selling of a stock. In theory, the short sellers were trying to buy back the stock after something triggered the stock price to go against their initial expectations.
+Let me start by giving you a bit more context: in the early days of 2021, a certain large hedge fund opened a short position against GameStop, which was still suffering from the effects of the pandemic. The stock price was around $7 at that point, but by the end of January, it reached a whopping $483, roughly a 6800% price increase in only a few days. 🕐 
+
+(The stock underwent a stock split, which is why the price appears slightly different in the TradingView plot.)
+
+This fast price increase is called a ‘short squeeze’, and is due to an excess of short selling of a stock. In theory, the short sellers were trying to buy back the stock after something triggered the stock price to go against their initial expectations.
  
 <p align="center">
   <img src="https://github.com/magurh/MemeStocks/assets/122356566/5ca5754b-fd79-4c84-a1fc-19dbec1b2c7e">
